@@ -1,0 +1,11 @@
+.vs/
+x64/
+Debug/
+Release/
+
+*.exe
+*.pdb
+*.vcxproj.user
+
+File.txt
+0
